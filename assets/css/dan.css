@@ -1,0 +1,113 @@
+
+/*======================= Agrandissementdes icones ==============*/
+.icones-big {
+    font-size: 60px;
+	color: #c199bc;
+}
+/*======================= Agrandissementdes icones ==============*/
+
+.big_text {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    padding: 3em 2em;
+    position: relative;
+    overflow: hidden;
+    z-index: 9;
+	color: #292929;
+	border-bottom: solid 5px #8E3F80 ;
+/*    box-shadow: 10px -10px 3px 3px rgba(0, 0, 0, 0.25);
+*/}
+.big_text:hover {
+	color: #FFFFFF;
+	background-color: #8E3F80;
+	font-size: 17px;
+	border-bottom: solid 5px #c199bc ;
+	transition: 0.5s all;
+	bottom: 0;
+}
+
+
+/*============================= Defilement =========================*/
+.sitewidth {
+    border: 1px solid #234D8C;
+    overflow: hidden;
+    background: #f3f3f3;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+marquee {
+    float: left;
+    height: 40px;
+    position: absolute;
+	border: 1px solid #234D8C;
+	vertical-align: middle;
+	padding-top: 10px;
+	margin-bottom: 20px;
+	background-color: #FFFFFF;
+}
+.br-title {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #FFF;
+    float: left;
+    background-color:#234D8C;
+    left: 0px;
+    top: 0px;
+    height: 40px;
+}
+.sitewidth ul li {
+    float: left;
+    list-style: none;
+    font-weight: 500;
+    font-size: 13px;
+    height: 10px;
+   
+}
+.mon-contour {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #F2F2F2!important;
+	min-height: 180px;
+	margin-bottom: 30px;
+	box-shadow: 1px 1px 1px 1px #D1D1D133;
+}
+.mon-contour:hover {
+	border-style: solid;
+	border-width: 1px;
+	border-color:#FE7725!important;
+	min-height: 180px;
+	margin-bottom: 30px;   
+	transition-duration: 1s;
+	transition: width 2s;
+ }
+
+.boite-blanche {
+    background-color:#FFFFFF !important;
+    color:#234D8C !important;border-radius: 0px;
+	font-weight: 500;
+	font-size: 16px;
+	padding: 20px 25px;
+}
+.boite-blanche :hover {
+	text-shadow: 0 3px 2px rgba(0,0,0,0.12);
+	;
+	z-index: -1px;
+	color: #FE7725;
+	transition: text-shadow 0.3s ease-in-out;
+	-webkit-text-shadow: 0 3px 2px rgba(0,0,0,0.12);
+}
+.paneeau {
+  border-radius: 0px;
+  margin-bottom: 30px;
+  box-shadow: none;
+}
+.annulation {padding-left: 0px!important;
+}
+.bg-theme-orange {
+    background-color:#FE7725 !important;
+}
+/*============================= couleur label =======================*/
+.blanc-label {
+	color: #FFFFFF;
+}
+

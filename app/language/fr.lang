@@ -1,0 +1,263 @@
+[Lang]
+
+;menu home
+titre3 = 'Plateforme Accepteur'
+accueil = 'Accueil'
+administration = 'Administration'
+utilisateur = 'Utilisateur'
+utilisateur = 'Utilisateur'
+action = 'Action'
+actions = 'Actions'
+profils = 'Profil'
+group = 'Groupe'
+modules = 'Modules'
+appelfonds = 'Appels Fonds'
+gestion_caisse = 'Gestion Caisse'
+
+;header
+se_deconnecter = 'Se deconnecter'
+mon_profil = 'Mon profil'
+
+;administration
+email_existe = "Cet email existe deja dans la base de donnee"
+adminerror = "Accés refusé"
+modif_password = "Modification de votre mot de passe"
+
+
+;Bouton
+btnValider = 'Valider'
+btnFermer = 'Fermer'
+btnAjouter = 'Ajouter'
+btnModifier = 'Modifier'
+btnRetour = 'Retour'
+btnDesactiver = 'Desactiver'
+btnActiver = 'Activer'
+btnmodifpwd = 'Modifier mot de passe'
+btconnecter = 'Se connecter'
+copyright = '2019 BY NUMHERIT SA'
+
+
+
+
+
+;page action
+listeAction = 'Liste des actions'
+ajoutAction = 'Ajout Action'
+labAction = 'Action'
+moduleObligatoire= "Le module est obligatoire"
+actionObligatoire= "L action est obligatoire"
+listemodule= 'Liste des modules'
+listmodule= 'Module'
+modifAction= 'Modification Action'
+
+
+
+;page droit Type de Profil
+ajoutTypeprofil = 'Enregistrement des Types de Profils'
+labTypep = 'Libellé type de Profil'
+typeproObligatoire= 'Le Type de profil est obligatoire'
+listeTypep= 'Liste des types de profil'
+thTypep= 'Type de Profil'
+modifTypep= 'Modification des Types de Profils'
+
+
+
+;page Module
+ajoutModule = 'Enregistrement des Module'
+labModule = 'Libellé Module'
+moduleObligatoire= 'Le libelle du model est obligatoire'
+listeModule= 'Liste des modules'
+thlibModule= 'Libellé Module'
+modifModule= 'Modification de Module'
+
+
+
+
+;page Profil
+ajoutProfil = 'Enregistrement des Profils'
+labProfil = 'Libellé Profil'
+profilObligatoire= 'Le profil est obligatoire'
+listeProfil= 'Liste des profils'
+thProfil= 'Profils'
+thEtat= 'Etat'
+modifProfil= 'Modification profil'
+gestprofil = 'Liste des profils'
+nouvprofil = 'Nouveau profil'
+marchand = 'Marchand'
+
+
+
+
+;page utilisateur
+ajoutUtilisateur = 'Nouveau Utilisateur'
+labprenom = 'Prenom'
+labnom = 'Nom'
+labemail = 'Adresse email'
+labLogin = 'Login'
+labpwd = 'Mot de passe'
+labtel = 'Téléphone'
+labtelMobile = 'Téléphone mobile'
+labnpwd = 'Nouveau mot de passe'
+labcnpwd = 'Confirmation nouveau mot de passe'
+prenomObligatoire= 'Le Prenom est obligatoire'
+prenomLettre= 'Le Prenom doit etre en lettre'
+nomObligatoire= 'Le nom est obligatoire'
+nomLettre= 'Le nom doit etre en lettre'
+emailObligatoire= 'L email est obligatoire'
+emailInvalide= 'L adresse email est invalide'
+loginObligatoire= 'Le login est obligatoire'
+pwdObligatoire= 'Le mot de passe est obligatoire'
+listeUtilisateur= 'Liste des utilisateurs'
+modifUtilisateur= 'Modification Utilisateur'
+detailUser= 'Detail Utilisateur'
+modifpwdUtilisateur= 'Modification mot de passe'
+detailUser1= "Detail de l'utilisateur : "
+npasswordObligatoire='Entrer le nouveau mot de passe'
+cpasswordObligatoire='Confirmer le nouveau mot de passe'
+cpasswordc='Confirmation incorecte'
+listeProfil='Liste des profils'
+labmarchand='Nom marchand'
+admin='Admin'
+
+;page affectation
+listeAffectation = 'Liste des affectations de droits'
+tabBord = 'Tableau de Bord'
+thSModule = 'Sous module'
+thdroit = 'Droit'
+labController = 'Controller'
+labMethode = 'Methode'
+
+;page Client
+client = 'CLIENT'
+listeClient = 'Liste des clients'
+labphoto = 'Photos'
+labprenom = 'Prenom'
+labnom = 'Nom'
+labadresse = 'Adresse'
+labprenomd = 'Prenom : '
+labnomd = 'Nom : '
+labadressed = 'Adresse : '
+labidcarte = 'Numeros Carte :'
+detailClient = 'Detail Client'
+detailClient1 = 'Information sur : '
+labdatenaiss = 'Date de naissance :'
+lablieunaiss = 'lieu de naissance :'
+labpaynaiss = 'Pays :'
+labsexe = 'Sexe :'
+labdatedeli = 'Date délivraison :'
+labdatedexpi = 'Date expiration :'
+lablicense = 'License :'
+labtaille = 'Taille :'
+modifClient = 'Modification Client'
+Fcfa = 'Fcfa'
+
+
+;page Transaction
+Transaction = 'Liste transactions du : '
+Transactions = 'Liste transactions rechérchées'
+reporting = 'Suivi des Encaissements'
+labnum_transaction = 'Numero de transaction'
+labdate_transaction = 'Date'
+labmontant_transation = 'Montant'
+labemail_acheteur = 'Email Acheteur'
+labnum_transac_marchand = 'Num Transaction Marchand'
+labnom_marchand = 'Nom Marchand'
+labstatus_transaction = 'Status Transaction'
+labmoyen_paiement = 'Moyen Paiement'
+laburl_retour = 'Url de Retour'
+laburl_cancel = 'Url d annulation'
+laburl_notification = 'Url de notification'
+labcommentaire = 'Commentaire'
+laborder_id = 'Order'
+labtrans_id = 'Transaction id'
+labmontant_reel = 'Montant Réel'
+labcurrency = 'Currency'
+labtaux_change = 'Taux de change'
+labmontant_converti = 'Montant Converti'
+journaliere = 'Journaliere'
+mensuelle = 'Mensuelle'
+annuelle = 'Annuelle'
+listeTransaction = 'Liste encaissements du jour'
+listeTransactionm = 'Transaction Mensuelle'
+listeTransactiona = 'Transaction Annuelle'
+pardate = 'Par Date'
+du ='Du : '
+au ='Au : '
+transacjr = "Transactions du Jour"
+transencp = "Historique transaction"
+transh = "Encaissement par caisse et par période"
+
+transacavant = 'Solde avant'
+transacapres = 'Solde aprés'
+transactitre = 'Relevé de compte'
+
+detailTransaction1= 'Detail de la transaction :'
+detailTransact= 'Detail de la transaction'
+export= 'Exporter'
+filtre_periodique= 'Filtre par période ou par numéro de caisse'
+filtre_periodiqueT= 'Filtre par période'
+
+;parametrage
+parametrage = 'Parametrage'
+integration = 'Integration'
+appel_de_fond = 'Appel de Fond'
+appelDeFond = 'Appel de Fond'
+newAppelDeFond = 'Nouvel appel de Fond'
+labmontant = 'Montant'
+date = 'Date'
+validAppel = "Validation de l'appel de fond"
+confirmontant = "Voulez vous faire un appel de fond de:  "
+currency = 'Ar'
+solde ='Solde marchand'
+infoMarchand = 'Informations MARCHAND'
+infoUser = 'Mes informations'
+
+ationsuccess="Action effectuée avec succés!"
+ationsechec="Action non effectuée"
+ref_non='Non'
+ref_oui='Oui'
+vsregene = "Voulez vous regénérer le mot de passe de :<br/>"
+regene = "Regénération mot de passe"
+
+
+
+;page encaissement
+encaissement = 'Caisse'
+listeEnc = 'Liste des Caisses'
+labcodemarchand = 'Code marchand'
+labCode = 'Code'
+labIcon = 'Icon'
+labnumcaisse = 'Numéro caisse'
+modifEncaissement = 'Modification caisse'
+ajoutEncaissement = 'Ajout caisse'
+vsregenecm= "Voulez vous regénérer le code marchand de la caisse numéro : "
+regeneenc= "Regénération de code marchand"
+
+
+;page affectation encaissement
+affectationcaisse= 'Affectation caisse'
+affectationcaissier= 'Affectation caissier'
+selectcais= 'Selectionner la caisse'
+selectcaissier= 'Selectionner le caissier'
+Msg_Ecr_caisse="Pas de choix effectués"
+Msg_Ecr_caisse2="Caisse déja affecté à cette heure"
+Msg_Ecr_caisse3="Caissier déja affecté à une caisse à cette heure"
+numerocais="Caisse N° "
+echeccaisse="Vous ne pouvez pas affecter à un caissier la meme caisse à la meme date"
+caisseaffecter="Affectations effectuées"
+detailaffectcaisse="Détails affectation caisse"
+calendrieraffectation="Calendrier affectation"
+caissier="Caissier"
+hrdeb="Heure de début"
+hrfin="Heure de fin"
+dtaffect="Date affectation"
+
+
+;page moyen paiement
+moyenpaie = 'Moyen de paiement'
+gestmoyenpaie = 'Gestion des moyens de paiement'
+nouvmoyen = 'Nouveau moyen de paiement'
+thMoyen = 'Mode de paiement'
+listeMoyen = 'liste des moyens de paiement'
+
+
