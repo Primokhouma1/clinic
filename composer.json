@@ -16,7 +16,7 @@
   },
   "require": {
     "php": ">=7.0",
-    "spipu/html2pdf": "v5.0.1",
+    "spipu/html2pdf": "v5.2.4",
     "phpmailer/phpmailer": "v6.0.3",
     "phpoffice/phpspreadsheet": "1.2.0",
     "jacwright/restserver": "v1.2.0",
